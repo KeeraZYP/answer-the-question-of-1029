@@ -1,8 +1,5 @@
 # L2CS-Net：yaw–pitch 分開預測的檢驗與誤差結構分析
 
-> 深度學習專題（智慧交通 #4 DMS）／ 工學院學士班領航專題
-> 組員的重現、輕量化與跨資料集實驗在 [YichiaHuang/dms-l2cs](https://github.com/YichiaHuang/dms-l2cs/tree/remote-results)；本 repo 是另一條獨立實驗線。
-
 ## 研究問題
 
 L2CS-Net 用兩個全連接層**分別**預測 yaw 與 pitch，損失也各自計算；論文沒有檢驗這個設計，也沒有做「分開 vs 聯合」的消融實驗。
