@@ -117,5 +117,3 @@ python analysis/error_structure.py
 - Zhang et al., *It's Written All Over Your Face: Full-Face Appearance-Based Gaze Estimation*, CVPRW 2017（MPIIFaceGaze）
 - Zhang et al., *MPIIGaze: Real-World Dataset and Deep Appearance-Based Gaze Estimation*, TPAMI 2019
 - Cheng et al., *Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark*, arXiv:2104.12668（GazeHub 前處理）
-
-程式與分析在 Claude（Anthropic）協助下完成。
